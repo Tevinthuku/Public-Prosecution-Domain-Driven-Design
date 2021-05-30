@@ -6,6 +6,8 @@ See [link to full statement](https://docs.google.com/document/d/1HpRJj1lk_M80Xvw
 
 The repo is based off a live event from Oreilly (Domain-Driven Design: First Steps) by Instructor [Andrew](https://github.com/andrewharmellaw)
 
+Ive also added _Kenyan_ Specific terms, like the [Huduma Number](https://www.hudumanamba.go.ke/) (src/hudumaNumber.ts) which kinda replaces our previously used Identification Cards.
+
 The live course was in Java, but I deciided to do it in Typescript.
 
 The Link to the statement on what this software is supposed to do is [here](https://docs.google.com/document/d/1HpRJj1lk_M80Xvwzs5F-lZ1oACkVNeWRMG0s7BQxZzk/edit)
